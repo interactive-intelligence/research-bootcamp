@@ -21,7 +21,7 @@ This is a **team-based** research project formulation bootcamp that will ensure 
 
 - Research Project Bootcamp Overview **[TODO]**
 - Importance of Planning Slideshow **[TODO]**
-- Example topics **TODO**
+- Example topics worksheet **TODO**
 
 ### Assignments
 
