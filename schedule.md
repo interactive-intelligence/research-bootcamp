@@ -140,7 +140,7 @@ help you!
 
 ---
 
-## What next?: 
+## Module -1: What's Next?
 ### 05/19 - End of Quarter (EOQ)
 Although your project may not be (probably is not) completely finished, we will take a moment to summarize what you've
 accomplished so far, present to others, and get feedback from all of i2. You can discuss how your research has been going.
