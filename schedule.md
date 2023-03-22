@@ -3,7 +3,8 @@
 Prerequisites: Intro to Neuro/AI course or similar experience with ML or neuroscience concepts.
 The due dates listed under assignments are the dates the tasks are *due by*, not started on.
 
-This is a **team-based** research project formulation bootcamp that will ensure the research you spend your time on is worthwile and doable!
+This is a **team-based** research project formulation bootcamp that will ensure the research you spend your time on is worthwhile and doable!
+
 ---
 
 ## Module 0: What interests you?
