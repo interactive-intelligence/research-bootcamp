@@ -1,7 +1,4 @@
 # Research Project Bootcamp
-Interactive Intelligence's Research Project Bootcamp, designed to get you excited about creating something new in intelligence research!
-
-To get started, **see schedule.md**, which contains weekly assignments, resources, and directions.
 
 ### Instructor
 Chaytan Inman
@@ -21,34 +18,29 @@ The research this course is designed to focus on is how we can recreate and unde
 Welcome to the Interactive Intelligence Research Bootcamp! I’m excited you’re here.
 
 ## Expectations
-If you have not already done so, join the Discord: https://discord.gg/Ph8njzHedC 
-Make sure you have selected Member in the #roles-react channel
-Attend at least 75% of meetings on Fridays at 5pm - 6pm, in Sieg Hall Room 233
-Complete the assignments to the best of your ability and stay on track to the best of your ability
-We will make you collaborate. In person! And it will make you a better researcher
-Communicate with your group and instructors or TAs when you are falling behind or not able to complete assignments – we are here to help!
+- If you have not already done so, join the Discord: https://discord.gg/Ph8njzHedC 
+- Make sure you have selected Member in the **#roles-react** channel
+- Attend **at least 75% of meetings on Fridays at 5pm - 6pm, in Sieg Hall Room 233**
+- **Complete the assignments** to the best of your ability and stay on track to the best of your ability
+- We will make you collaborate. In person! And it will make you a better researcher
+- Communicate with your group and instructors or TAs when you are falling behind or not able to complete assignments – **we are here to help!**
 
 ## Resources
-The entire course is contained on Github and your go to source for information, assignments, worksheets and more will be found in the schedule.md syllabus, here:
-Research Project Bootcamp Github 
+**The entire course is contained on Github** and your go to source for information, assignments, worksheets and more will be found in the **schedule.md** file
 
-While all other resources can be found from the Github README, I will list a few more core resources here.
-
-All the slides for the quarter will be found here:
-Research Project Bootcamp, All Slides
-
-TODO
+I will list a few more core resources here.
+- TODO
 
 ## Results
 By the end of this course, you will have
-Explored many different avenues and subfields of intelligence research at large
-Read and presented cutting edge academic papers in these fields
-Formulated a thorough, novel research question
-Deep-dived into the field surrounding your research question
-Created a research proposal and begun to prototype
+- Explored many different avenues and subfields of intelligence research at large
+- Read and presented cutting edge academic papers in these fields
+- Formulated a thorough, novel research question
+- Deep-dived into the field surrounding your research question
+- Created a research proposal and begun to prototype
 
 All of these accomplishments are extremely important for a career in research, but more importantly this is a way to collaboratively create and explore intelligence research that you’re passionate about. At the end, if you have followed through with the assignments each week, you will have a well-developed idea, and you will have the option to continue your research project as a part of i2! Once again, I believe the world needs people who care about understanding why we do what we do and the changes we are making. I am excited to help you explore and see what you come up with!
 
--Chaytan
+To get started, **see schedule.md**, which contains weekly assignments, resources, and directions.
 
 
