@@ -7,7 +7,7 @@ This is a **team-based** research project formulation bootcamp that will ensure 
 
 ---
 
-## Module 0: What interests you?
+## Module 0: What calls you?
 ### 03/31 - 04/07
 
 ### Purpose
