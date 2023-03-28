@@ -21,7 +21,7 @@ This is a **team-based** research project formulation bootcamp that will ensure 
 
 - [Research Project Bootcamp Overview](https://github.com/interactive-intelligence/research-bootcamp/blob/main/README.md)
 - [Example topics worksheet](https://github.com/interactive-intelligence/research-bootcamp/blob/main/Module-0/module_0_wksheet.pdf)
-- [Week 0 Slides](Module-0/Research Project Bootcamp Intro.pdf)
+- [Week 0 Slides](https://github.com/interactive-intelligence/research-bootcamp/blob/830876536544362fee7cd5204a332bfd5e7c2cab/Module-0/Research%20Project%20Bootcamp%20Intro.pdf)
 
 ### Assignments
 
