@@ -25,7 +25,7 @@ This is a **team-based** research project formulation bootcamp that will ensure 
 
 ### Assignments
 
-By 04/07: 
+Due 04/07 
 - Worksheet 0
 - Assign **2 subfields** to each group member to explore further in Module 1
   - Examples of subfields (Reinforcement Learning, Large Language Models)
@@ -48,6 +48,7 @@ By 04/07:
 
 ### Assignments
 
+Due 04/14  
 - Research/learn about the *backbone* of your chosen subfields
   - Outline provided, fill out LaTeX document (one per subfield) 
 - Improve literature comprehension and understanding of the field
