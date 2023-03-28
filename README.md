@@ -49,5 +49,5 @@ All of these accomplishments are extremely important for a career in research, b
 
 To get started, **see schedule.md**, which contains weekly assignments, resources, and directions.
 
-### Contributions
+## Contributions
 This course is being developed by Chaytan and Varun, with some input and advice from Prof. Ranjay Krishna.
