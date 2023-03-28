@@ -20,12 +20,12 @@ This is a **team-based** research project formulation bootcamp that will ensure 
 ### Resources
 
 - [Research Project Bootcamp Overview](https://github.com/interactive-intelligence/research-bootcamp/blob/main/README.md)
-- [Example topics worksheet](https://github.com/interactive-intelligence/research-bootcamp/blob/main/Module-0/module_0_wksheet.pdf)
+- [Worksheet 0: Exploring Topics](https://github.com/interactive-intelligence/research-bootcamp/blob/main/Module-0/module_0_wksheet.pdf)
 - [Week 0 Slides](https://github.com/interactive-intelligence/research-bootcamp/blob/830876536544362fee7cd5204a332bfd5e7c2cab/Module-0/Research%20Project%20Bootcamp%20Intro.pdf)
 
 ### Assignments
 
-- Ranked list of ~10 topics to explore (for the whole team)
+- Worksheet 0
 - Assign **2 subfields** to each group member to explore further in Module 1
   - Examples of subfields (Reinforcement Learning, Large Language Models)
 ---
