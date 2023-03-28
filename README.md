@@ -28,8 +28,14 @@ Welcome to the Interactive Intelligence Research Bootcamp! I’m excited you’r
 ## Resources
 **The entire course is contained on Github** and your go to source for information, assignments, worksheets and more will be found in the **schedule.md** file
 
-I will list a few more core resources here.
-- TODO
+I will list a few more core resources here.  
+
+If you are feeling uninspired or just curious, here are some of my favorite places to poke around:  
+[Youtube: Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)  
+[Youtube: Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk)  
+[MIT Cognitive Science Lectures](https://www.youtube.com/watch?v=ba-HMvDn_vU&list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP)  
+[Journal: Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence) (I mostly like to just browse titles to spark curiosity)  
+[Journal: Nature Machine Intelligence](https://www.nature.com/natmachintell/)  
 
 ## Results
 By the end of this course, you will have
