@@ -36,7 +36,7 @@ If you are feeling uninspired or just curious, here are some of my favorite plac
 [MIT Cognitive Science Lectures](https://www.youtube.com/watch?v=ba-HMvDn_vU&list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP)  
 [Journal: Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence) (I mostly like to just browse titles to spark curiosity)  
 [Journal: Nature Machine Intelligence](https://www.nature.com/natmachintell/)  
-
+[Cool book](http://mostlyhypotheticalmountains.blogspot.com/2010/11/1-introduction-if-only-by-virtue-of.html)
 ## Results
 By the end of this course, you will have
 - Explored many different avenues and subfields of intelligence research at large
