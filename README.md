@@ -26,7 +26,9 @@ Welcome to the Interactive Intelligence Research Bootcamp! I’m excited you’r
 - Communicate with your group and instructors or TAs when you are falling behind or not able to complete assignments – **we are here to help!**
 
 ## Resources
-**The entire course is contained on Github** and your go to source for information, assignments, worksheets and more will be found in the **schedule.md** file
+**The entire course is contained on Github** and your go to source for information, assignments, worksheets and more will be found in the **schedule.md** file.
+
+The **one** exception is SUBMISSIONS, which will are to be submitted in the corresponding Google Drive folder [here](https://drive.google.com/drive/u/0/folders/1BsNjini6RD_Fdki-SXFlY1Wkiz6tq5eF) by the due date in schedule.md. :)  
 
 I will list a few more interesting resources here.  
 
