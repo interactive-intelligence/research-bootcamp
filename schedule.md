@@ -44,12 +44,13 @@ Due 04/07
 ### Resources
 
 - [arXiv](https://arxiv.org/)
-- [Subfield Exploration LaTeX Worksheet](https://github.com/interactive-intelligence/research-bootcamp/blob/de07d935f4805f69657fd53d189646eac830175f/Module-1/module_1_wksheet.pdf)
+- [Worksheet 1: Subfield Exploration](https://github.com/interactive-intelligence/research-bootcamp/blob/de07d935f4805f69657fd53d189646eac830175f/Module-1/module_1_wksheet.pdf)
   - [Tex File](https://github.com/interactive-intelligence/research-bootcamp/blob/de07d935f4805f69657fd53d189646eac830175f/Module-1/module-1-wksheet.tex)
 
 ### Assignments
 
 Due 04/14  
+- Worksheet 1
 - Research/learn about the *backbone* of interesting subfields
   - Outline provided, fill out LaTeX document (one per subfield) 
 - Improve literature comprehension and understanding of the field
