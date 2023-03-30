@@ -21,6 +21,7 @@ This is a **team-based** research project formulation bootcamp that will ensure 
 
 - [Research Project Bootcamp Overview](https://github.com/interactive-intelligence/research-bootcamp/blob/main/README.md)
 - [Worksheet 0: Exploring Topics](https://github.com/interactive-intelligence/research-bootcamp/blob/main/Module-0/module_0_wksheet.pdf)
+  -  [Tex File](https://github.com/interactive-intelligence/research-bootcamp/blob/de07d935f4805f69657fd53d189646eac830175f/Module-0/module-0-wksheet.tex)
 - [Week 0 Slides](https://github.com/interactive-intelligence/research-bootcamp/blob/830876536544362fee7cd5204a332bfd5e7c2cab/Module-0/Research%20Project%20Bootcamp%20Intro.pdf)
 
 ### Assignments
@@ -43,13 +44,13 @@ Due 04/07
 ### Resources
 
 - [arXiv](https://arxiv.org/)
-- Subfield Exploration LaTeX Worksheet **[TODO]**
-    - Explanation of desired outcome of research process (1-2 paragraphs)
+- [Subfield Exploration LaTeX Worksheet](https://github.com/interactive-intelligence/research-bootcamp/blob/de07d935f4805f69657fd53d189646eac830175f/Module-1/module_1_wksheet.pdf)
+  - [Tex File](https://github.com/interactive-intelligence/research-bootcamp/blob/de07d935f4805f69657fd53d189646eac830175f/Module-1/module-1-wksheet.tex)
 
 ### Assignments
 
 Due 04/14  
-- Research/learn about the *backbone* of your chosen subfields
+- Research/learn about the *backbone* of interesting subfields
   - Outline provided, fill out LaTeX document (one per subfield) 
 - Improve literature comprehension and understanding of the field
 - Meet up **at least once** with your group!
