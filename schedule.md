@@ -69,12 +69,12 @@ Due 04/14
 
 ### Resources
 
-- Subfield lock-in Google Sheet **[TODO]**
-- Group Research LaTeX Worksheet **[TODO]**
+- Subfield lock-in Google Sheet
+- Group Research LaTeX Worksheet
   - Brainstorm 10 research questions you would be interested in
   - Find 3 relevant or interesting researchers and fill in their contact info
   - Assign one paper for members to read by next week
-- Subfield Presentation Guide/Specification **[TODO]**
+- Subfield Presentation Guide/Specification
 
 ### Assignment
 
@@ -105,9 +105,9 @@ Here we will begin to formalize your project direction by choosing a specific re
 
 ### Resources
 
-- Viability and Impact LaTeX Document **[TODO]**
-- Importance of Hypothesis Formulation Presentation **[TODO]**
-- Researcher Contact Template **[TODO]**
+- Viability and Impact LaTeX Document
+- Importance of Hypothesis Formulation Presentation
+- Researcher Contact Template
 
 ### Assignment
 
@@ -135,8 +135,8 @@ help you!
 
 ### Resources
 
-- Project Proposal Examples and Slideshow **[TODO]**
-- Project Proposal Template (NSF) **[TODO]**
+- Project Proposal Examples and Slideshow
+- Project Proposal Template (NSF)
 
 ### Assignment
 
@@ -159,7 +159,7 @@ the start. No matter where you're at, we want to discuss it!
 
 ### Resources
 
-- Final Research Presentation Specification **[TODO]**
+- Final Research Presentation Specification
 
 ### Assignment
 
