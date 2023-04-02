@@ -65,7 +65,7 @@ Due 04/14
 - Select a topic from the the ones previously researched **as a group**
 - Dive deep into the chosen topic with the goal of **finding a research question to create a project on**
   - Note that if you find after reading more that you want to switch topics, this is totally fine and why we had you research more than one initially
-- Create a presentation to show to all of i2!
+- Create a presentation to present!
 
 ### Resources
 
