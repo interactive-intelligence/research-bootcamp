@@ -71,7 +71,7 @@ Due 04/14
 
 - Subfield lock-in Google Sheet
 - Group Research LaTeX Worksheet
-  - Brainstorm 10 research questions you would be interested in
+  - Brainstorm 10 research **questions** you would be interested in
   - Find 3 relevant or interesting researchers and fill in their contact info
   - Assign one paper for members to read by next week
 - Subfield Presentation Guide/Specification
