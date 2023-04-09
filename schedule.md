@@ -70,10 +70,10 @@ Due 04/14
 ### Resources
 
 - [Subfield lock-in Google Sheet](https://docs.google.com/spreadsheets/d/19ODBYe_jzvlwaiCPx5hvuAWHat5DnCfWbEuPIAtZu98/edit#gid=0)
-- [Worksheet 2: Subfield Selection]()
+- [Worksheet 2: Subfield Selection](https://github.com/interactive-intelligence/research-bootcamp/blob/main/Module-2/module_2_wksheet.pdf)
   - Find relevant or interesting researchers
   - Assign papers for members to read and respond to questions
-- [Subfield Presentation Specification]()
+- [Subfield Presentation Specification](https://github.com/interactive-intelligence/research-bootcamp/blob/main/Module-2/Subfield%20Presentation%20Spec.pdf)
 
 ### Assignment
 
