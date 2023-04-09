@@ -5,11 +5,6 @@ Chaytan Inman
 chaytan@uw.edu  
 Discord: @chaytan#1464
 
-### TAs
-Varun Ananth  
-vananth3@uw.edu  
-Discord: @FlashyNurav#8936
-
 ## Overview
 Before we get started, I want to take a minute to think about all that the wrinkly, electric neuron blob in your skull is capable of. We humans like to think of ourselves as different and special. Homo sapiens have been around for about 160,000 years, which for a species, is kind of chump change. Nematodes, microscopic worms that collectively weigh about 400 million tons and outnumber humans by 57 billion to 1, are about 400 million years old. We aren’t the most populous species. We aren’t the most evolutionarily successful species. We aren’t the oldest species. Are we really special? Well in the past archaeological millisecond, 10,000 years since discovering the cultivation of wheat, humans have colonized the globe and manipulated the Earth’s resources on geologic scales. No other species has moved so quickly or changed so much. Although we must keep a humble perspective as we see the vast expanse of life that surrounds and precedes us, there is something special about the particular structure and coordination of our electric neuron blobs that created the capability of unprecedented change and discovery. 
 
@@ -52,4 +47,4 @@ All of these accomplishments are extremely important for a career in research, b
 To get started, **see schedule.md**, which contains weekly assignments, resources, and directions.
 
 ## Contributions
-This course is being developed by Chaytan Inman and Varun Ananth, with some input and advice from Prof. Ranjay Krishna.
+This course content is being developed by Chaytan Inman and Varun Ananth, with some input and advice from Prof. Ranjay Krishna.

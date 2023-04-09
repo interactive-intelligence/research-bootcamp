@@ -63,28 +63,29 @@ Due 04/14
 
 ### Purpose
 - Select a topic from the the ones previously researched **as a group**
-- Dive deep into the chosen topic with the goal of **finding a research question to create a project on**
+- Dive deep into the chosen topic with the goal of **deeply understanding the progress and limitations of your chosen subfield** such that crafting a research question in the next Module will come naturally
   - Note that if you find after reading more that you want to switch topics, this is totally fine and why we had you research more than one initially
-- Create a presentation to present!
+- Present your findings and understanding of your subfield!
 
 ### Resources
 
-- Subfield lock-in Google Sheet
-- Group Research LaTeX Worksheet
-  - Find 3 relevant or interesting researchers and fill in their contact info
-  - Assign one paper for members to read by next week
-- Subfield Presentation Guide/Specification
+- [Subfield lock-in Google Sheet](https://docs.google.com/spreadsheets/d/19ODBYe_jzvlwaiCPx5hvuAWHat5DnCfWbEuPIAtZu98/edit#gid=0)
+- [Worksheet 2: Subfield Selection]()
+  - Find relevant or interesting researchers
+  - Assign papers for members to read and respond to questions
+- [Subfield Presentation Specification]()
 
 ### Assignment
 
 Due 04/21
-- Select one of the topics from the two you previously researched
-  - Present on that topic to your group
-- After presentations, select a research focus from the topics to create your research project
+- First, you will need to **meet with your group** and select a subfield. Do this **EARLY**.
+  - Lock in your subfield with the sheet
+- Next, while meeting with your group, start Worksheet 2 
+- Finish and submit Worksheet 2
 
 Due 04/28
-- Further read any prerequisite topics for your chosen research topic
-- Create **presentation on research focus** to present to i2 during the next meeting
+- Each read any further prerequisite topics for your chosen subfield
+- As a group, create a **presentation on your subfield** to present at the 04/28 meeting 
 
 ---
 
