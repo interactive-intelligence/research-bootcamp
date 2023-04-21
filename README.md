@@ -15,6 +15,7 @@ Welcome to the Interactive Intelligence Research Bootcamp! I’m excited you’r
 ## Expectations
 - If you have not already done so, join the Discord: https://discord.gg/Ph8njzHedC 
 - Make sure you have selected Member in the **#roles-react** channel
+  - Join and monitor the #research-bootcamp channel
 - Attend **at least 75% of meetings on Fridays at 5pm - 6pm, in Sieg Hall Room 233**
 - **Complete the assignments** to the best of your ability and stay on track to the best of your ability
 - We will make you collaborate. In person! And it will make you a better researcher
