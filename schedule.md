@@ -101,18 +101,15 @@ Here we will begin to formalize your project direction by choosing a specific re
 - Ensure important project success metrics:
   - Provable viability
   - Provable impact
-- Determine if your idea has been done before (not immediately a bad thing!) 
+- Determine if your idea has been done before (not immediately a bad thing, this can give you ideas!) 
 
 ### Resources
 
 - Viability and Impact LaTeX Document
-- Importance of Hypothesis Formulation Presentation
 - Researcher Contact Template
 
 ### Assignment
-
-- Once again, list possible research questions (at least 5)
-- Fill out **Viability and Impact LaTeX Document** for top 3-5 questions
+- Worksheet 3!
 - Meet with your group **in person** at least **once**
   - Rank your research questions
   - Write out possible prototypes, experiments, and methods to answering this questions
