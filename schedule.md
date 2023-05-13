@@ -121,7 +121,7 @@ Here we will begin to formalize your project direction by choosing a specific re
 ## Module 4: Making your Proposal
 ### 05/12 - 05/19
 
-We can no longer provide an **exact** framework for what you need to do, but if you made it this far and have completed all the assignments,
+Creating a research proposal like this is the exact steps you would take if you were in a lab seeking to get funding from various grants, so this assignment is very useful. It both helps organize your own thoughts and can be used for applications, or explaining what you're working on to others. We can no longer provide an **exact** framework for what you need to do, but if you made it this far and have completed all the assignments,
 you will not need bumper rails anymore! You're on your own in terms of project direction, but don't
 forget that you're still in the middle of a group of very smart and capable people who want to
 help you!
@@ -132,12 +132,11 @@ help you!
 
 ### Resources
 
-- Project Proposal Examples and Slideshow
-- Project Proposal Template (NSF)
+- [Worksheet 4: Full Research Proposal](https://github.com/interactive-intelligence/research-bootcamp/blob/main/Module-4/module_4_wksheet.pdf)
 
 ### Assignment
 
-- Create your **project proposal!**
+- Worksheet 4: Full Research Proposal
 
 ---
 
