@@ -105,8 +105,8 @@ Here we will begin to formalize your project direction by choosing a specific re
 
 ### Resources
 
-- Viability and Impact LaTeX Document
-- Researcher Contact Template
+- [Worksheet 3: Crafting a Question](https://github.com/interactive-intelligence/research-bootcamp/blob/main/Module-3/module_3_wksheet-1.pdf)
+- [Researcher Contact Template](https://github.com/interactive-intelligence/research-bootcamp/blob/main/Module-3/researcher_contact_template.txt)
 
 ### Assignment
 - Worksheet 3!
