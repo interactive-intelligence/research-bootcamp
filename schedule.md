@@ -155,7 +155,8 @@ the start. No matter where you're at, we want to discuss it!
 
 ### Resources
 
-- Final Research Presentation Specification
+- [Final Research Presentation Specification](https://github.com/interactive-intelligence/research-bootcamp/blob/main/Module-(-1)/Final%20Presentation%20Spec.pdf)
+- [Final Presentation Slide Template](https://www.canva.com/design/DAFkbTxy4Zk/8nP1ytMjcCS3OD3zqAQi5g/view?utm_content=DAFkbTxy4Zk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
 ### Assignment
 
